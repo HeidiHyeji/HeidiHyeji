@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm HyejiKim</h1>
-<h3 align="center">a back-end web developer who pursues happiness.</h3>
-<h4 align="center">My vision is to develop software that can help people because I am truly happy when I help them.</h4>
+<h3 align="center">a developer who wants to develop something novel and interesting.</h3>
+<h4 align="center">I'm curious and highly focused. <br/> When I'm focused on something that interests me, I sometimes don't hear anything else. <br/> I always reflect on myself and think about becoming a mature and better person. <br/> My favorite book sentence is <br/>"The Bird Fights It's Way Out of the Egg"<br/> by Damien.
+</h4>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heidihyeji&label=Profile%20views&color=0e75b6&style=flat" alt="heidihyeji" /> </p>
 

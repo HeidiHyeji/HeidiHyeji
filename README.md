@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm HyejiKim</h1>
 <h3 align="center">a developer who wants to develop something novel and interesting.</h3>
-<h4 align="center">I'm curious and highly focused. <br/> When I'm focused on something that interests me, I sometimes don't hear anything else. <br/> I always reflect on myself and think about becoming a mature and better person. <br/> My favorite book sentence is <br/>"The Bird Fights It's Way Out of the Egg"<br/> by Damien.
+<h4 align="center">I'm curious and highly focused. <br/> When I'm focused on something that interests me, I sometimes don't hear anything else. <br/>Also, I always reflect on myself and think about becoming a mature and better person. <br/> My favorite book sentence is <br/>"The Bird Fights It's Way Out of the Egg"<br/> by Damien.
 </h4>
 
 
